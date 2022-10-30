@@ -1,0 +1,20 @@
+[12:25:58] / INFO / Universal / [Event.Debug] -> [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[12:25:58] / INFO / Universal / [Event.Debug] -> [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 958
+[12:25:58] / INFO / Universal / [Event.Debug] -> [WS => Manager] Spawning shards: 0
+[12:25:58] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 10
+    Encoding   : json
+    Compression: none
+[12:25:58] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] Setting a HELLO timeout for 20s.
+[12:25:59] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] [CONNECTED] Took 703ms
+[12:25:59] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] Clearing the HELLO timeout.
+[12:25:59] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[12:25:59] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] [IDENTIFY] Shard 0/1 with intents: 515
+[12:26:00] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] [READY] Session eefade1177c3fc87667964b989d019c2.
+[12:26:00] / INFO / Universal / [Event.Debug] -> [WS => Shard 0] [ReadyHeartbeat] Sending a heartbeat.
+[12:26:00] / INFO / Universal / [Client.Start] -> Token Logged in!
