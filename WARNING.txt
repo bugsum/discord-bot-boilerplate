@@ -1,0 +1,5 @@
+If you do not know the advance concepts of javascript please avoid using this boilerplate as you will not be able to handle errors
+
+CREDITS: https://github.com/bugsum
+
+(Removing credits can get you in trouble)
