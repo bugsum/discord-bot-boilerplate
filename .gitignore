@@ -5,3 +5,5 @@ config
 settings.json
 
 /src/logs
+
+package.lock.json

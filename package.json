@@ -6,7 +6,7 @@
 		"moment": "^2.29.4",
 		"prettier": "^2.7.1"
 	},
-	"name": "universal",
+	"name": "discord-bot-boilerplate",
 	"version": "1.0.0",
 	"main": "./src/main.js",
 	"type": "module",
